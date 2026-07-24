@@ -3,13 +3,13 @@
 
 MAX_GUESSES = 10
 
-answer = "To be or not to be"
+answer = "Four Score and seven years ago"
 
 answer = answer.lower()
 
 letters = 'abcdefghijklmnopqrstuvwxyz'
 
-guessed_letters = {}
+guessed_letters = set()
 
 while len(guessed_letters) < MAX_GUESSES:
     # Display Board
@@ -23,10 +23,11 @@ while len(guessed_letters) < MAX_GUESSES:
             gameboard += c
         else:
             gameboard += '_'
+    print(gameboard)
 
     # Get Letter from user
     guess = input("Enter a letter: ")
-    guessed_letters += guess
+    guessed_letters.add(guess[0])
 
     # Check win condition
     if guessed_letters == set(answer) - {' '}:
@@ -39,4 +40,8 @@ while len(guessed_letters) < MAX_GUESSES:
                 gameboard += c
             else:
                 gameboard += '_'
+        print(gameboard)
         break
+
+if len(guessed_letters) >= MAX_GUESSES:
+    print("You Lose!!!")
