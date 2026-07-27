@@ -107,7 +107,7 @@ print('make ammends')
 print(matt_contact)
 
 def count_favs(contacts):
-    return count([c for c in contacts if 'is_favorite' in c and c['is_favorite']])
+    return sum([1 for c in contacts if 'is_favorite' in c and c['is_favorite']])
 
 def set_email(contact, email_str):
     if '@' in email_str and '.' in email_str:
