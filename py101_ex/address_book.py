@@ -105,3 +105,22 @@ set_favorite(matt_contact)
 
 print('make ammends')
 print(matt_contact)
+
+def count_favs(contacts):
+    return count([c for c in contacts if 'is_favorite' in c and c['is_favorite']])
+
+def set_email(contact, email_str):
+    if '@' in email_str and '.' in email_str:
+        contact['email'] = email_str
+    else:
+        print('invalid email')
+
+def get_domains_in_email(contacts):
+    return set([c['email'].split('@')[-1] for c in contacts if 'email' in c])
+
+def set_addr_state(contact, addr_state):
+    addr_state = addr_state.strip().upper()
+    if len(addr_state) == 2:
+        contact['addr_state'] = addr_state
+    else:
+        print("bad state")
