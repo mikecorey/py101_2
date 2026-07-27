@@ -93,6 +93,7 @@ def search_contact(search_str, contacts):
 
 def set_favorite(contact, is_favorite=True):
     contact['is_favorite'] = is_favorite
+    
 print('before fight')
 print(matt_contact)
 
