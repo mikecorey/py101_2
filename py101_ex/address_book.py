@@ -85,3 +85,22 @@ matt_contact['is_favorite'] = True
 for f in contacts:
     if 'is_favorite' in f and f['is_favorite']:
         print(f"{f['name']} is a favorite contact.")
+
+
+
+def search_contact(search_str, contacts):
+    return [c for c in contacts if 'name' in c and search_str in c['name']]
+
+def set_favorite(contact, is_favorite=True):
+    contact['is_favorite'] = is_favorite
+print('before fight')
+print(matt_contact)
+
+set_favorite(matt_contact, False)
+print('after fight')
+print(matt_contact)
+
+set_favorite(matt_contact)
+
+print('make ammends')
+print(matt_contact)
