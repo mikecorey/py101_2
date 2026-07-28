@@ -1,0 +1,302 @@
+[
+  {
+    "Name": "Avery Bennett",
+    "Address": "1427 Maple Crest Dr",
+    "City": "Springfield",
+    "State": "IL",
+    "Zip": "62704",
+    "Phone": "217-555-0101",
+    "Email": "avery.bennett@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Jordan Kim",
+    "Address": "88 Harbor View Ln",
+    "City": "Portland",
+    "State": "ME",
+    "Zip": "04101",
+    "Phone": "207-555-0102",
+    "Email": "jordan.kim@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Mia Rodriguez",
+    "Address": "316 Willow Brook Ave",
+    "City": "Austin",
+    "State": "TX",
+    "Zip": "78704",
+    "Phone": "512-555-0103",
+    "Email": "mia.rodriguez@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Ethan Parker",
+    "Address": "905 Pine Ridge Ct",
+    "City": "Raleigh",
+    "State": "NC",
+    "Zip": "27606",
+    "Phone": "919-555-0104",
+    "Email": "ethan.parker@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Sophia Nguyen",
+    "Address": "2218 Lakewood Dr",
+    "City": "Madison",
+    "State": "WI",
+    "Zip": "53711",
+    "Phone": "608-555-0105",
+    "Email": "sophia.nguyen@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Noah Thompson",
+    "Address": "74 Cedar Hollow Rd",
+    "City": "Boise",
+    "State": "ID",
+    "Zip": "83702",
+    "Phone": "208-555-0106",
+    "Email": "noah.thompson@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Olivia Carter",
+    "Address": "1509 Sunset Grove Blvd",
+    "City": "Tampa",
+    "State": "FL",
+    "Zip": "33606",
+    "Phone": "813-555-0107",
+    "Email": "olivia.carter@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Liam Brooks",
+    "Address": "463 Meadow Park Way",
+    "City": "Denver",
+    "State": "CO",
+    "Zip": "80211",
+    "Phone": "303-555-0108",
+    "Email": "liam.brooks@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Emma Patel",
+    "Address": "117 Oak Valley St",
+    "City": "Columbus",
+    "State": "OH",
+    "Zip": "43215",
+    "Phone": "614-555-0109",
+    "Email": "emma.patel@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Lucas Martin",
+    "Address": "2386 River Bend Rd",
+    "City": "Nashville",
+    "State": "TN",
+    "Zip": "37212",
+    "Phone": "615-555-0110",
+    "Email": "lucas.martin@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Isabella Reed",
+    "Address": "509 Magnolia Terrace",
+    "City": "Savannah",
+    "State": "GA",
+    "Zip": "31401",
+    "Phone": "912-555-0111",
+    "Email": "isabella.reed@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Mason Clark",
+    "Address": "1814 Aspen Trail",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Zip": "85007",
+    "Phone": "602-555-0112",
+    "Email": "mason.clark@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Amelia Scott",
+    "Address": "67 Birchwood Place",
+    "City": "Burlington",
+    "State": "VT",
+    "Zip": "05401",
+    "Phone": "802-555-0113",
+    "Email": "amelia.scott@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "James Foster",
+    "Address": "724 Prairie Wind Dr",
+    "City": "Omaha",
+    "State": "NE",
+    "Zip": "68104",
+    "Phone": "402-555-0114",
+    "Email": "james.foster@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Harper Evans",
+    "Address": "1302 Bluebird Ln",
+    "City": "Richmond",
+    "State": "VA",
+    "Zip": "23220",
+    "Phone": "804-555-0115",
+    "Email": "harper.evans@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Benjamin Lee",
+    "Address": "394 Canyon View Ave",
+    "City": "Salt Lake City",
+    "State": "UT",
+    "Zip": "84105",
+    "Phone": "801-555-0116",
+    "Email": "benjamin.lee@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Charlotte Adams",
+    "Address": "812 Forest Glen Ct",
+    "City": "Little Rock",
+    "State": "AR",
+    "Zip": "72205",
+    "Phone": "501-555-0117",
+    "Email": "charlotte.adams@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Henry Wilson",
+    "Address": "2550 Northgate Dr",
+    "City": "Des Moines",
+    "State": "IA",
+    "Zip": "50312",
+    "Phone": "515-555-0118",
+    "Email": "henry.wilson@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Evelyn Moore",
+    "Address": "438 Garden Path Rd",
+    "City": "Louisville",
+    "State": "KY",
+    "Zip": "40204",
+    "Phone": "502-555-0119",
+    "Email": "evelyn.moore@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Alexander Davis",
+    "Address": "921 Stone Creek Way",
+    "City": "Manchester",
+    "State": "NH",
+    "Zip": "03104",
+    "Phone": "603-555-0120",
+    "Email": "alexander.davis@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Abigail Turner",
+    "Address": "1076 Cypress Point Dr",
+    "City": "Mobile",
+    "State": "AL",
+    "Zip": "36608",
+    "Phone": "251-555-0121",
+    "Email": "abigail.turner@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Daniel Harris",
+    "Address": "640 Juniper Ridge Ave",
+    "City": "Spokane",
+    "State": "WA",
+    "Zip": "99203",
+    "Phone": "509-555-0122",
+    "Email": "daniel.harris@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Ella Martinez",
+    "Address": "312 Palm Grove St",
+    "City": "Albuquerque",
+    "State": "NM",
+    "Zip": "87106",
+    "Phone": "505-555-0123",
+    "Email": "ella.martinez@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Matthew Collins",
+    "Address": "1849 Sycamore Bend",
+    "City": "Kansas City",
+    "State": "MO",
+    "Zip": "64111",
+    "Phone": "816-555-0124",
+    "Email": "matthew.collins@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Scarlett Young",
+    "Address": "576 Rosewood Ave",
+    "City": "Charleston",
+    "State": "SC",
+    "Zip": "29403",
+    "Phone": "843-555-0125",
+    "Email": "scarlett.young@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Samuel White",
+    "Address": "902 Highland Creek Rd",
+    "City": "Jackson",
+    "State": "MS",
+    "Zip": "39202",
+    "Phone": "601-555-0126",
+    "Email": "samuel.white@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Grace Lewis",
+    "Address": "1460 Orchard Hill Dr",
+    "City": "Indianapolis",
+    "State": "IN",
+    "Zip": "46202",
+    "Phone": "317-555-0127",
+    "Email": "grace.lewis@example.com",
+    "is_favorite": true
+  },
+  {
+    "Name": "Jack Walker",
+    "Address": "335 Elm Ridge Ct",
+    "City": "Wichita",
+    "State": "KS",
+    "Zip": "67208",
+    "Phone": "316-555-0128",
+    "Email": "jack.walker@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Chloe Hall",
+    "Address": "711 Silver Lake Way",
+    "City": "Minneapolis",
+    "State": "MN",
+    "Zip": "55408",
+    "Phone": "612-555-0129",
+    "Email": "chloe.hall@example.com",
+    "is_favorite": false
+  },
+  {
+    "Name": "Owen Allen",
+    "Address": "1284 Greenfield Ave",
+    "City": "New Orleans",
+    "State": "LA",
+    "Zip": "70115",
+    "Phone": "504-555-0130",
+    "Email": "owen.allen@example.com",
+    "is_favorite": true
+  }
+]

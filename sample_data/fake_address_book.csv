@@ -1,0 +1,31 @@
+Name,Address,City,State,Zip,Phone,Email,is_favorite
+Avery Bennett,1427 Maple Crest Dr,Springfield,IL,62704,217-555-0101,avery.bennett@example.com,true
+Jordan Kim,88 Harbor View Ln,Portland,ME,04101,207-555-0102,jordan.kim@example.com,false
+Mia Rodriguez,316 Willow Brook Ave,Austin,TX,78704,512-555-0103,mia.rodriguez@example.com,true
+Ethan Parker,905 Pine Ridge Ct,Raleigh,NC,27606,919-555-0104,ethan.parker@example.com,false
+Sophia Nguyen,2218 Lakewood Dr,Madison,WI,53711,608-555-0105,sophia.nguyen@example.com,false
+Noah Thompson,74 Cedar Hollow Rd,Boise,ID,83702,208-555-0106,noah.thompson@example.com,true
+Olivia Carter,1509 Sunset Grove Blvd,Tampa,FL,33606,813-555-0107,olivia.carter@example.com,false
+Liam Brooks,463 Meadow Park Way,Denver,CO,80211,303-555-0108,liam.brooks@example.com,false
+Emma Patel,117 Oak Valley St,Columbus,OH,43215,614-555-0109,emma.patel@example.com,true
+Lucas Martin,2386 River Bend Rd,Nashville,TN,37212,615-555-0110,lucas.martin@example.com,false
+Isabella Reed,509 Magnolia Terrace,Savannah,GA,31401,912-555-0111,isabella.reed@example.com,true
+Mason Clark,1814 Aspen Trail,Phoenix,AZ,85007,602-555-0112,mason.clark@example.com,false
+Amelia Scott,67 Birchwood Place,Burlington,VT,05401,802-555-0113,amelia.scott@example.com,false
+James Foster,724 Prairie Wind Dr,Omaha,NE,68104,402-555-0114,james.foster@example.com,true
+Harper Evans,1302 Bluebird Ln,Richmond,VA,23220,804-555-0115,harper.evans@example.com,false
+Benjamin Lee,394 Canyon View Ave,Salt Lake City,UT,84105,801-555-0116,benjamin.lee@example.com,false
+Charlotte Adams,812 Forest Glen Ct,Little Rock,AR,72205,501-555-0117,charlotte.adams@example.com,true
+Henry Wilson,2550 Northgate Dr,Des Moines,IA,50312,515-555-0118,henry.wilson@example.com,false
+Evelyn Moore,438 Garden Path Rd,Louisville,KY,40204,502-555-0119,evelyn.moore@example.com,true
+Alexander Davis,921 Stone Creek Way,Manchester,NH,03104,603-555-0120,alexander.davis@example.com,false
+Abigail Turner,1076 Cypress Point Dr,Mobile,AL,36608,251-555-0121,abigail.turner@example.com,false
+Daniel Harris,640 Juniper Ridge Ave,Spokane,WA,99203,509-555-0122,daniel.harris@example.com,true
+Ella Martinez,312 Palm Grove St,Albuquerque,NM,87106,505-555-0123,ella.martinez@example.com,false
+Matthew Collins,1849 Sycamore Bend,Kansas City,MO,64111,816-555-0124,matthew.collins@example.com,false
+Scarlett Young,576 Rosewood Ave,Charleston,SC,29403,843-555-0125,scarlett.young@example.com,true
+Samuel White,902 Highland Creek Rd,Jackson,MS,39202,601-555-0126,samuel.white@example.com,false
+Grace Lewis,1460 Orchard Hill Dr,Indianapolis,IN,46202,317-555-0127,grace.lewis@example.com,true
+Jack Walker,335 Elm Ridge Ct,Wichita,KS,67208,316-555-0128,jack.walker@example.com,false
+Chloe Hall,711 Silver Lake Way,Minneapolis,MN,55408,612-555-0129,chloe.hall@example.com,false
+Owen Allen,1284 Greenfield Ave,New Orleans,LA,70115,504-555-0130,owen.allen@example.com,true
