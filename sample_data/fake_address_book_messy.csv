@@ -1,0 +1,41 @@
+Name,Address,City,State,Zip,Phone,Email,is_favorite
+ Avery Bennett ,1427 Maple Crest Dr,springfield,IL,62704,(217) 555-0101,avery.bennett@example.com,TRUE
+JORDAN KIM,88 Harbor View Ln,Portland,Maine,04101,207.555.0102,jordan.kim@example.com ,no
+mia rodriguez,316 Willow Brook Ave,AUSTIN,tx,78704,+1 512-555-0103,MIA.RODRIGUEZ@example.com,Yes
+Ethan Parker,905 Pine Ridge Ct,Raleigh,NC,27606,9195550104,ethan.parker@example.com,0
+Sophia Nguyen,2218 Lakewood Dr,Madison,WI,53711-2044,608 555 0105,sophia.nguyen@example.com,1
+Noah Thompson,74 Cedar Hollow Rd,Boise,ID,83702,208-555-0106 ext 4,noah.thompson@example.com,Y
+Olivia Carter,1509 Sunset Grove Blvd,Tampa,Florida,33606,813-555-0107,olivia.carter@example.com,N
+ Liam Brooks,463 Meadow Park Way ,denver,co,80211,303/555/0108,liam.brooks@example.com,false
+Emma Patel,117 Oak Valley St,Columbus,OH,43215,(614)555-0109,emma.patel@example,true
+Lucas Martin,2386 River Bend Rd,Nashville,TN,37212,,lucas.martin@example.com,FALSE
+Isabella Reed,509 Magnolia Terrace,Savannah,GA,31401,912-555-0111,,yes
+Mason Clark,1814 Aspen Trail,Phoenix,AZ,8500,602-555-0112,mason.clark@example.com,no
+Amelia Scott,67 Birchwood Place,Burlington,VT,05401,802-555-0113,amelia.scott@@example.com,false
+James Foster,724 Prairie Wind Dr,Omaha,NE,68104,402-555-0114, james.foster@example.com,TRUE
+Harper Evans,1302 Bluebird Ln,Richmond,VA,23220,804-555-0115,harper.evans@example.com,
+Benjamin Lee,394 Canyon View Ave,Salt Lake City,UT,84105,8015550116,benjamin.lee@example.com,favorite
+Charlotte Adams,812 Forest Glen Ct,Little Rock,Arkansas,72205,501-555-0117,charlotte.adams@example.com,1
+Henry Wilson,2550 Northgate Dr,Des Moines,IA,50312,515-555-O118,henry.wilson@example.com,0
+Evelyn Moore,438 Garden Path Rd,Louisville,KY,40204,502-555-0119,evelyn.moore@example.com,T
+Alexander Davis,921 Stone Creek Way,Manchester,NH,03104,603-555-0120,alexander.davis@example.com,F
+Abigail Turner,1076 Cypress Point Dr,Mobile,AL,36608,251-555-0121,abigail.turner@ example.com,true
+Daniel Harris,640 Juniper Ridge Ave,Spokane,WA,99203,509-555-0122,daniel.harris@example.com,false
+Ella Martinez,"312 Palm Grove St, Apt 4B",Albuquerque,NM,87106,(505) 555 0123,ella.martinez@example.com,YES
+Matthew Collins,1849 Sycamore Bend,Kansas City,MO,64111,816-555-0124,matthew.collins@example.com,NO
+Scarlett Young,576 Rosewood Ave,Charleston,SC,29403,843-555-0125,scarlett.young@example.com, true 
+Samuel White,902 Highland Creek Rd,Jackson,MS,39202,601-555-0126,samuel.white@example.com, false 
+Grace Lewis,,Indianapolis,IN,46202,317-555-0127,grace.lewis@example.com,true
+Jack Walker,335 Elm Ridge Ct,,KS,67208,316-555-0128,jack.walker@example.com,false
+Chloe Hall,711 Silver Lake Way,Minneapolis,XX,55408,612-555-0129,chloe.hall@example.com,false
+Owen Allen,1284 Greenfield Ave,New Orleans,LA,7011A,504-555-0130,owen.allen@example.com,true
+Avery Bennett,1427 MAPLE CREST DR,Springfield,il,62704,2175550101,AVERY.BENNETT@EXAMPLE.COM,1
+Jordan Kim,88 Harbor View Lane,Portland,ME,4101,(207) 555-0102,jordan.kim@example.com,false
+Taylor Morgan,42 Westview Rd,Pensacola,FL,32501,850-555-0131,taylor.morgan@example.com,maybe
+Casey Brown,19 Oak St,Atlanta,GA,30303,404-555-0132,casey.brown@example..com,true
+Riley Johnson,707 Creekside Dr,Orlando,florida,32801-1234,+1 (407) 555-0133,riley.johnson@example.com,FALSE
+Morgan Smith,  55 Pine St  ,Seattle,WA,98101,2065550134,morgan.smith@example.com,0
+Jamie Garcia,902 Lake Ave,Miami,FL,33101,305-555-0135,jamie.garcia@example.com,true
+Jamie Garcia ,902 Lake Ave.,MIAMI,FL,33101,(305)5550135,JAMIE.GARCIA@example.com,TRUE
+Chris Davis,17 Hilltop Ct,Boston,MA,02108,617-555-0136,not-an-email,false
+Pat Lee,300 River Rd,Albany,NY,123456,518-555-0137,pat.lee@example.com,yes
