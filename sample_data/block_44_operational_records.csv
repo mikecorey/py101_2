@@ -1,0 +1,201 @@
+record_id,source,status,record_count,completion,error_count,processed_date
+EQ-4001,logistics,active,4322,80,0,2026-01-08
+EQ-4002,maintenance,active,3782,78,1,2026-03-19
+EQ-4003,logistics, ACTIVE ,13772,97,2,2026-04-02
+EQ-4004, Maintenance ,inactive,20725,78,1,2026-05-31
+EQ-4005,maintenance,inactive,4029,100,3,2026-03-16
+ eq-4006 ,maintenance,active,16139,91,0,2026-02-03
+EQ-4007,maintenance,active, 2112 ,68,7,2026-06-24
+,logistics,active,23882,96,4,2026-03-26
+EQ-4009,maintenance,active,15364,93,1,2026-03-01
+EQ-4010,logistics,,24637,95,0,2026-01-12
+EQ-4011,maintenance,active,978,93,1,2026-05-23
+EQ-4012,logistics,inactive,12187, 93 ,0,2026-04-03
+EQ-4013,,inactive,20381,96,9,2026-01-13
+EQ-4014,logistics,active,5175,80,2,2026-01-02
+EQ-4015,LOGISTICS,active,21645,70,0,2026-04-22
+EQ-4016,maintenance,active,21028,95,4,2026-01-16
+EQ-4017,maintenance,inactive,9103,100,9,
+EQ-4018,maintenance,Inactive,2643,84,0,2026-04-14
+EQ-4019 ,maintenance,inactive,15238,71,0,2026-02-03
+EQ-4020,logistics,active,14971,89,0,2026-04-24
+EQ-4021,maintenance,inactive,,84,1,2026-04-03
+EQ-4022,maintenance,active,18851,91,1,2026-04-16
+EQ-4023,logistics,inactive,15331,83,0,2026-06-02
+EQ-4024,maintenance,active,unknown,100,0,2026-01-02
+EQ-4025,maintenance,inactive,21305,95,3,2026-04-08
+EQ-4026,logistics,active,23002,,0,2026-02-10
+EQ-4027,logistics,active,667,86,0,not-a-date
+EQ-4028,Finance,active,6658,92,0,2026-01-25
+EQ-4029,maintenance,active,0,99,0,2026-03-13
+EQ-4030,finance,active ,22745,94,0,2026-05-19
+EQ-4031,logistics,active,21893,complete,0,2026-01-09
+EQ-4032,sales,active,1027,79,0,2026-01-30
+ eq-4033,finance,inactive,5667,100,2,2026-03-11
+EQ-4034,finance,inactive,8635,93,7,2026-03-18
+EQ-4035,maintenance,,5853,95,0,2026-02-15
+EQ-4036,maintenance,inactive,16476,91,3,2026-06-26
+EQ-4037,logistics,active,12883,91,none,2026-06-26
+EQ-4038,maintenance,active,7873,91,2,2026-02-14
+EQ-4039,maintenance,active,14412,90,,2026-03-11
+EQ-4040,logistics,active,3689,65,3,2026-03-19
+EQ-4041, maintenance,inactive,7411,95,0,2026-06-12
+EQ-4042,finance,active, 16788 ,100,1,2026-01-13
+EQ-4043,maintenance,active,19011,105,2,2026-03-31
+EQ-4044,maintenance,inactive,16138,69,2,2026-03-21
+EQ-4045,maintenance,pending,8986,70,0,2026-01-07
+EQ-4046,maintenance,inactive,2220,69,1,2026-05-23
+EQ-4047,maintenance, INACTIVE ,4165,100,0,2026-02-28
+EQ-4048,finance,active,16466,67,0,2026-01-05
+EQ-4049,finance,active,3445,74,-1,2026-02-26
+ eq-4005 ,logistics,active,4529,93,0,2026-05-04
+EQ-4051,finance,active,22549,100,0,2026-01-20
+Eq-4052,logistics,active,17706,97,0,2026-01-25
+EQ-4053,maintenance,active,8113, 98 ,5,2026-03-29
+EQ-4054,maintenance,active,23308,92,0,2026-04-18
+EQ-4055,maintenance,active,N/A,76,0,2026-02-20
+EQ-4056,maintenance,active,14484,86,4,2026-01-11
+EQ-4057,maintenance,active,18638,92,1,2026-02-10
+,finance,active,16502,96,2,2026-03-13
+EQ-4059,maintenance,active,9949,93,1,2026-13-40
+EQ-4060,LOGISTICS ,active,6647,91,0,2026-06-22
+EQ-4061,maintenance,active,-250,66,0,2026-05-01
+EQ-4062,logistics,inactive,8377,94,0,
+EQ-4063,finance,active,10357,93,0,2026-04-12
+EQ-4064,maintenance,Active,18506,94,0,2026-01-11
+EQ-4014,maintenance,inactive,5675,97,8,2026-05-21
+EQ-4066,maintenance,active,,92,9,2026-05-08
+EQ-4067,maintenance,inactive,883,100,0,2026-06-15
+EQ-4068,operations,active,9158,92,0,2026-04-10
+EQ-4069,,active,882,80,2,2026-04-28
+EQ-4070,logistics,active,6733,85,0,2026-02-15
+EQ-4071,maintenance,inactive,9833,95%,0,2026-03-18
+EQ-4072,maintenance,inactive,7003,74,1,2026-04-08
+EQ-4073, finance ,active,8452,80,2,2026-04-05
+EQ-4074,maintenance,inactive,5498,85,two,2026-03-17
+ EQ-4075 ,logistics,active,8314,93,0,2026-01-05
+EQ-4076,logistics,inactive,3759,-5,4,2026-06-08
+EQ-4077,logistics,active,10669,,5,2026-01-14
+EQ-4078,maintenance,active,23260,72,0,2026-02-03
+EQ-4079,maintenance,,11742,100,2,2026-02-20
+EQ-4080,logistics,retired,18623,82,4,2026-01-10
+ eq-4023 ,maintenance,active,15831,98,6,2026-02-22
+EQ-4082,maintenance, active,23583,98,6,2026-01-21
+EQ-4083,logistics,active, 8386 ,99,2,2026-04-17
+EQ-4084,maintenance,inactive,24650,98,0,2026-04-30
+EQ-4085,maintenance,active,twelve thousand,77,5,2026-01-09
+EQ-4086,maintenance,active,23751,95,2,2026-04-21
+EQ-4087,maintenance,active,14731,100,-3,2026-01-24
+EQ-4088,finance,inactive,22448,95,5,2026-01-12
+EQ-4089,MAINTENANCE,active,24911,78,0,2026-06-05
+EQ-4090,finance,active,1051,83,2,2026-02-30
+EQ-4091,finance,active,21629,87,2,2026-03-11
+EQ-4092,finance,active,9938,95,,2026-01-18
+EQ-4093,maintenance,active,21027, 83 ,5,2026-01-22
+EQ-4094,finance,active,3889,92,6,2026-01-09
+EQ-4095,maintenance,active,0,94,1,2026-03-04
+EQ-4096,maintenance,active,23380,93,0,2026-02-18
+eq-4097,maintenance,active,20824,97,0,2026-03-07
+EQ-4098,unknown,active,23998,91,0,2026-03-25
+EQ-4036,maintenance,active,16976,91,5,2026-05-30
+EQ-4100,maintenance,inactive,24617,unknown,0,2026-04-21
+EQ-4101,logistics,inactive,20744,89,1,2026-05-27
+EQ-4102,finance,active,14507,101,4,2026-04-26
+EQ-4103,logistics,active,,90,0,2026-06-24
+EQ-4104, Logistics ,inactive,5711,98,3,2026-01-30
+EQ-4105,finance,inactive,6173,77,1,2026-06-13
+EQ-4106,logistics,INACTIVE,1851,94,4,2026-05-11
+EQ-4107,finance,active,16146,97,3,2026-04-03
+EQ-4108,logistics,active,2510,96,unknown,2026-04-05
+EQ-4109,finance,active,11752,100,1,
+EQ-4110,maintenance,inactive,6044,98,3,2026-04-08
+EQ-4111,logistics,unknown,22625,85,2,2026-01-29
+,maintenance,inactive,14231,100,3,2026-01-27
+EQ-4113,finance,active,20127,100,0,2026-02-11
+EQ-4114,logistics,active,18629,93,0,2026-01-18
+EQ-4115,logistics,active,"8,500",68,1,2026-05-09
+ eq-4048 ,finance,inactive,16966,85,1,2026-02-12
+EQ-4117,,active,13897,86,2,2026-02-09
+EQ-4118,logistics,active,10071,83,0,"July 44, 2026"
+EQ-4119,logistics,active,21541,97,-2,2026-03-29
+EQ-4120,FINANCE,active,678,79,4,2026-03-02
+EQ-4121,maintenance,active,9330,100,0,2026-04-19
+EQ-4122,finance,active,569,,2,2026-01-11
+ Eq-4123 ,maintenance,active,5436,94,0,2026-04-04
+EQ-4124,finance,active, 20378 ,93,0,2026-06-17
+EQ-4125,maintenance, ACTIVE,11280,76,2,2026-01-18
+EQ-4126,logistics,active,17570,83,0,2026-01-30
+EQ-4127,human resources,active,18042,83,3,2026-04-20
+EQ-4128,logistics,,17475,76,0,2026-04-27
+EQ-4129,logistics,inactive,17979, 83 ,0,2026-03-19
+EQ-4063,logistics,inactive,10857,84,0,2026-01-08
+EQ-4131,finance,active,-1,89,2,2026-06-01
+EQ-4132,finance,active,19542,78,2,2026-04-13
+EQ-4133,maintenance,active,10105,eighty,0,2026-06-16
+EQ-4134,logistics,active,7168,95,0,2026-01-03
+EQ-4135,logistics,active,19956,250,0,2026-04-23
+EQ-4136,maintenance,inactive,19336,91,2,2026-01-24
+EQ-4137,maintenance ,active,19692,68,1,2026-01-02
+EQ-4138,maintenance,complete,4666,77,9,2026-06-01
+EQ-4139,maintenance,active,4962,93,0,2026-06-05
+EQ-4140,logistics,inactive,770,74,,2026-04-28
+EQ-4141,finance,inactive,2143,96,3,2026-05-13
+EQ-4142,finance,inactive,9444,74,?,2026-02-25
+ eq-4078 ,finance,inactive,23760,91,2,2026-03-16
+EQ-4144,maintenance,inactive ,13474,96,7,2026-04-17
+EQ-4145,finance,active,12088,81,2,yesterday
+EQ-4146,logistics,active,,95,0,2026-03-06
+EQ-4147,logistics,active,1938,85,0,2026-01-15
+EQ-4148,logistics,active,?,79,0,2026-01-25
+eq-4149 ,finance,active,12710,91,0,2026-03-13
+EQ-4150,finance,active,22642,96,0,2026-04-15
+EQ-4151,maintenance,active,6136,67,3,2026-06-07
+EQ-4152,logistics,active,18630,89,7,
+EQ-4153,maintenance,active,18609,94,-1,2026-02-01
+EQ-4091,finance,inactive,22129,95,4,2026-03-31
+EQ-4155, logistics,inactive,2864,99,4,2026-02-18
+EQ-4156,logistics,paused,19494,95,3,2026-03-17
+EQ-4157,logistics,,2359,97,5,2026-03-25
+EQ-4158,finance,inactive,23147,99,0,2026-01-06
+EQ-4159,engineering,active,10503,96,0,2026-03-01
+EQ-4160,finance,active,5742,94,1,2026-01-29
+EQ-4161,logistics, Active ,13735,100,1,2026-02-15
+EQ-4162,maintenance,active,20364,95,0,2026-01-31
+EQ-4163,maintenance,active,-500,100,0,2026-06-28
+EQ-4164,logistics,active,4550,66,0,06/31/2026
+EQ-4165,maintenance,active,5290,N/A,0,2026-04-26
+ eq-4110 ,logistics,active,6544,82,0,2026-03-19
+EQ-4167,maintenance,active,24961,-1,0,2026-03-19
+EQ-4168,finance,active, 22134 ,91,5,2026-01-08
+,logistics,active,10543,87,5,2026-05-18
+EQ-4170,finance,active,5419, 89 ,2,2026-04-23
+EQ-4171,logistics,active,19496,91,1,2026-05-21
+EQ-4172,maintenance,active,17700,,1,2026-04-25
+EQ-4173,support,inactive,20088,100,0,2026-01-25
+EQ-4126, Finance ,inactive,18070,93,1,2026-06-13
+EQ-4175,,active,20172,100,3,2026-04-29
+EQ-4176,logistics,processing,21994,89,4,2026-01-16
+EQ-4177,finance,active,4k,92,0,2026-02-15
+ EQ-4178,finance,active,10088,90,0,2026-01-27
+EQ-4179,maintenance,active,10367,93,0,unknown
+EQ-4180,finance,active,2885,84,N/A,2026-02-27
+EQ-4181,maintenance,inactive,,93,0,2026-01-11
+EQ-4182,finance,INACTIVE ,12422,78,0,2026-01-27
+ eq-4147 ,logistics,inactive,2438,86,0,2026-04-23
+EQ-4184,maintenance,active,23801,92,,2026-04-23
+EQ-4185,finance,inactive,9004,120,0,2026-04-12
+EQ-4162,maintenance,inactive,20864,72,4,2026-03-26
+EQ-4187,finance,,9870,68,0,2026-05-19
+EQ-4188,warehouse,active,17383,81,0,2026-01-26
+EQ-4189,maintenance,active,1381,84,0,
+EQ-4190,maintenance,archived,9316,100,4,2026-06-27
+EQ-4191,logistics,active,16143,97,-5,2026-04-21
+EQ-4192,maintenance,active,6085,98,2,2026-00-12
+EQ-4002,maintenance,active,3782,78,1,2026-03-19
+EQ-4016,maintenance,active,21028,95,4,2026-01-16
+EQ-4051,finance,active,22549,100,0,2026-01-20
+EQ-4072,maintenance,inactive,7003,74,1,2026-04-08
+EQ-4105,finance,inactive,6173,77,1,2026-06-13
+EQ-4134,logistics,active,7168,95,0,2026-01-03
+EQ-4158,finance,inactive,23147,99,0,2026-01-06
+EQ-4182,finance,INACTIVE ,12422,78,0,2026-01-27
