@@ -1,0 +1,10 @@
+purchase_id,customer_id,item,cost
+1,1,Subscription,29.99
+2,2,Subscription,29.99
+3,1,BonusMaterial,14.00
+4,2,TShirt,12.00
+5,3,Subscription,29.99
+6,4,Subscription,29.99
+7,6,Subscription,29.99
+8,1,TShirt,12.00
+9,2,BaseballCap,45.00
