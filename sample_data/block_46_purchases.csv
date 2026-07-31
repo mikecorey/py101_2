@@ -6,5 +6,5 @@ purchase_id,customer_id,item,cost
 5,3,Subscription,29.99
 6,4,Subscription,29.99
 7,6,Subscription,29.99
-8,1,TShirt,12.00
-9,2,BaseballCap,45.00
+8,,TShirt,12.00
+9,,BaseballCap,45.00
