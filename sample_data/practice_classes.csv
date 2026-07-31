@@ -1,0 +1,9 @@
+class_id,class_name,instructor_id,credits,room
+C101,Python Fundamentals,I001,3,LAB-201
+C102,Introduction to Data Analysis,I002,3,ROOM-114
+C103,Databases and SQL,I003,3,LAB-205
+C104,Data Visualization,I002,3,ROOM-118
+C105,Statistics for Analysts,I004,4,ROOM-220
+C106,Git and Collaboration,I005,2,LAB-204
+C107,Analytics Capstone Lab,I001,4,LAB-210
+C108,Cloud Data Basics,,3,ROOM-305
