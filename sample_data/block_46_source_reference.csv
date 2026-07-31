@@ -1,0 +1,9 @@
+source_code,source_name,organization,region,manager
+SRC-MAINT,Maintenance Management System,Sustainment Directorate,East,Avery Johnson
+SRC-LOG,Logistics Tracking System,Logistics Directorate,West,Jordan Lee
+SRC-FIN,Financial Operations System,Financial Management,Central,Morgan Patel
+SRC-OPS,Operations Readiness System,Operations Directorate,South,Casey Williams
+SRC-ENG,Engineering Data Repository,Engineering Directorate,East,Riley Chen
+SRC-HR,Workforce Management System,Human Resources,Central,Taylor Brooks
+SRC-SAFETY,Safety Incident System,Safety Office,South,Cameron Davis
+SRC-IT,IT Service Management,Information Technology,West,Alexis Rivera
